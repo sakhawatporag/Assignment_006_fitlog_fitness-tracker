@@ -13,13 +13,11 @@ FITLOG is a sleek, modern, dark-themed fitness companion built to help users bro
 
 | Workout Library (Home) | Exercise Detail View |
 | :---: | :---: |
-| ![Library Overview](./screenshots/library.png) | ![Exercise Details](./screenshots/exercise-detail.png) |
+| ![Library Overview](./Screenshot%202026-10-29%20211931.png) | ![Exercise Details](./Screenshot%202026-10-29%20211942.png) |
 
 | Daily Workout Plan Manager | Saved Workouts |
 | :---: | :---: |
-| ![My Plan](./screenshots/my-plan.png) | ![Saved Workouts](./screenshots/saved-workouts.png) |
-
-> *Tip: Save your screenshot files inside a `./screenshots/` folder in your project repository matching the paths above, or upload them directly to your GitHub repository/release assets.*
+| ![My Plan](./Screenshot%202026-10-29%20211950.png) | ![Saved Workouts](./Screenshot%202026-10-29%20212026.png) |
 
 ---
 
@@ -62,5 +60,5 @@ FITLOG is a sleek, modern, dark-themed fitness companion built to help users bro
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/fitlog.git](https://github.com/YOUR_USERNAME/fitlog.git)
-   cd fitlog
+   git clone [https://github.com/sakhawatporag/Assignment_006_fitlog_fitness-tracker.git](https://github.com/sakhawatporag/Assignment_006_fitlog_fitness-tracker.git)
+   cd Assignment_006_fitlog_fitness-tracker
